@@ -9,3 +9,8 @@ Extract the archive and then read the "readme.txt" file.
 Click the images to enlarge.<br>
 <img src="https://i.imgur.com/5wObyaJ.png" width="75%" alt="ReShade OFF"/>
 <img src="https://i.imgur.com/n4AzJ6K.png" width="75%" alt="ReShade ON"/>
+
+## Credits
+ReShade developer for developing ReShade
+SweetFX developer for creating SweetFX shaders collection/set/pack
+FRAMED. Screenshot Community for their amazing tutorial on how to inject ReShade into UWP games.
