@@ -11,6 +11,6 @@ Click the images to enlarge.<br>
 <img src="https://i.imgur.com/n4AzJ6K.png" width="75%" alt="ReShade ON"/>
 
 ## Credits
-ReShade developer for developing ReShade
-SweetFX developer for creating SweetFX shaders collection/set/pack
+ReShade developer for developing ReShade<br>
+SweetFX developer for creating SweetFX shaders collection/set/pack<br>
 FRAMED. Screenshot Community for their amazing tutorial on how to inject ReShade into UWP games.
